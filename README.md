@@ -3,12 +3,12 @@ Sou estudante do curso de Análise e Desenvolvimento de Sistemas e ultimamente t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofmorais/)
 
-<div>
+<a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sofmorais&bg_color=00000000&show_icons=true" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofmorais&layout=compact&bg_color=00000000" />
-</div>
+</a>
 
-<div style="display: inline_block"> 
+<div> 
   <img align="center" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="40" height="40"/> 
   <img align="center" src="https://softwareasli.com/wp-content/uploads/2019/08/ASP.NET_.png" width="60" height="50"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="65" height="65"/>
@@ -19,9 +19,3 @@ Sou estudante do curso de Análise e Desenvolvimento de Sistemas e ultimamente t
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
