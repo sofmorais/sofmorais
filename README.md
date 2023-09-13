@@ -16,3 +16,12 @@ Sou estudante do curso de Análise e Desenvolvimento de Sistemas e ultimamente t
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="43" height="33" />
   <img align="center" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"  width="45" height="35" />
 </div>
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
