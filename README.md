@@ -3,9 +3,9 @@ Sou estudante do curso de Análise e Desenvolvimento de Sistemas e ultimamente t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofmorais/)
 
-<div align="left">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=sofmorais&bg_color=00000000&show_icons=true" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=sofmorais&layout=compact&bg_color=00000000" />
+<div>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sofmorais&bg_color=00000000&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofmorais&layout=compact&bg_color=00000000" />
 </div>
 
 <div style="display: inline_block"> 
