@@ -5,7 +5,9 @@ Sou estudante do curso de Análise e Desenvolvimento de Sistemas e ultimamente t
 
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sofmorais&bg_color=00000000&show_icons=true" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofmorais&layout=compact&bg_color=00000000" />
+</a>
+<a href="#">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofmorais&layout=compact&bg_color=00000000" />
 </a>
 
 <div> 
