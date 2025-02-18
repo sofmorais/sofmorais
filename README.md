@@ -1,5 +1,5 @@
 #### Olá, sou a Sofia 👋  
-Sou estudante de Análise e Desenvolvimento de Sistemas e tenho focado meus estudos no desenvolvimento fullstack. Atualmente integro o time de desenvolvimento do Tribunal Regional do Trabalho da 7ª Região atuando como fullstack com Java e Angular.  
+Estou concluindo o curso de Análise e Desenvolvimento de Sistemas e atualmente integro o time de desenvolvimento do Tribunal Regional do Trabalho da 7ª Região atuando como fullstack com Java e Angular.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofmorais/)
 
